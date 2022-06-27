@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/RogueGD.png-47a9d2dd91c760fb4012a13ddaa02856.stex"
+path="res://.import/RogueGD.png-2073d8bc059795c61999dd4f10691a79.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://builds/html/RogueGD.png"
-dest_files=[ "res://.import/RogueGD.png-47a9d2dd91c760fb4012a13ddaa02856.stex" ]
+source_file="res://dist/RogueGD.png"
+dest_files=[ "res://.import/RogueGD.png-2073d8bc059795c61999dd4f10691a79.stex" ]
 
 [params]
 

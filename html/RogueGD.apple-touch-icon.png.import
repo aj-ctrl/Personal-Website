@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/RogueGD.apple-touch-icon.png-5874bef2a44ee14b1f746842bd41e76d.stex"
+path="res://.import/RogueGD.apple-touch-icon.png-5c1cb17dbddf8e80f53b6f42ed0f1b2e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://builds/html/RogueGD.apple-touch-icon.png"
-dest_files=[ "res://.import/RogueGD.apple-touch-icon.png-5874bef2a44ee14b1f746842bd41e76d.stex" ]
+source_file="res://dist/RogueGD.apple-touch-icon.png"
+dest_files=[ "res://.import/RogueGD.apple-touch-icon.png-5c1cb17dbddf8e80f53b6f42ed0f1b2e.stex" ]
 
 [params]
 
